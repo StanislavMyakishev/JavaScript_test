@@ -1,3 +1,4 @@
+'use strict';
 var leftBorderWidth = 1; // var is created before executing
 let second = 2; //let and const are created only after usage in code
 console.log(second);
